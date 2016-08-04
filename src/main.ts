@@ -9,4 +9,5 @@ bootstrap(App,
   ...HTTP_PROVIDERS,
   disableDeprecatedForms(),
   provideForms(),
-  ...providers]);
+  ...providers
+  ]);
